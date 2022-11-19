@@ -6,4 +6,4 @@
   <li>Adding meaningful context, such as Country, in the tooltip</li>
   <li>Add hover effect using CSS</li>
  </ul>
- PS: You are able to find the functional page <a href='https://harpskye.github.io/Scatter_Plot_D3JS_v2/'>here</a>. 
+ PS: All data are random. You are able to find the functional page <a href='https://harpskye.github.io/Scatter_Plot_D3JS_v2/'>here</a>. 
